@@ -34,18 +34,18 @@ Tecnologias Utilizadas
 
 Instalação
 
-    Clone este repositório:
+Clone este repositório:
 
-git clone https://github.com/usuario/repo-relatividade-geral.git
+    git clone https://github.com/usuario/repo-relatividade-geral.git
 
 Navegue até o diretório do projeto:
 
-cd repo-relatividade-geral
+c    d repo-relatividade-geral
 
 Crie e ative um ambiente virtual (opcional, mas recomendado):
 
-python -m venv venv
-source venv/bin/activate  # No Windows use: venv\Scripts\activate
+    python -m venv venv
+    source venv/bin/activate  # No Windows use: venv\Scripts\activate
 
 Instale as dependências:
 
