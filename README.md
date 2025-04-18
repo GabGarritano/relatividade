@@ -40,7 +40,7 @@ Clone este repositório:
 
 Navegue até o diretório do projeto:
 
-c    d repo-relatividade-geral
+    cd ./relatividade-geral
 
 Crie e ative um ambiente virtual (opcional, mas recomendado):
 
