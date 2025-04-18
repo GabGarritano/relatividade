@@ -78,6 +78,8 @@ Se você deseja contribuir para este projeto, sinta-se à vontade para abrir um 
 
     Melhorias nas visualizações gráficas para representar melhor os efeitos gravitacionais.
 
+Bibliografias
+
 
     Teoria da Relatividade Geral - Albert Einstein, Fundamentos da Física.
 
